@@ -32,10 +32,10 @@ CHRISTIAN,Percent of population reporting Christian religion,Unavailable outside
 HINDU,Percent of population reporting Hindu religion,Unavailable outside of England and Wales (-1)
 JEWISH,Percent of population reporting Jewish religion,Unavailable outside of England and Wales (-1)
 MUSLIM,Percent of population reporting Muslim religion,Unavailable outside of England and Wales (-1)
-ATHEIST,Percent of population self-responding as atheist,
-NOREPLY,Percent of population who skipped question on religion,
-OTHER_RLG,Percent of population with other religious beliefs,
-SIKH,Percent of population reporting Sikh religion,
+ATHEIST,Percent of population self-responding as atheist,Unavailable outside of England and Wales (-1)
+NOREPLY,Percent of population who skipped question on religion,Unavailable outside of England and Wales (-1)
+OTHER_RLG,Percent of population with other religious beliefs,Unavailable outside of England and Wales (-1)
+SIKH,Percent of population reporting Sikh religion,Unavailable outside of England and Wales (-1)
 TOT_2010,"Total votes cast, 2010",
 WIN_2010,"Winning party, 2010",
 TURNOUT_2010,"Turnout, 2010",
