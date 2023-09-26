@@ -1,0 +1,117 @@
+﻿Variable,Term,Notes
+SEAT,Constituency,
+COUNTY,Ceremonial county,
+REGION,Region,
+COUNTRY,Country,
+AGE_UNDR_10,Share of population under 10,
+AGE_10_19,Share of population between 10 and 19,
+AGE_20_29,Share of population between 20 and 29,
+AGE_30_39,Share of population between 30 and 39,
+AGE_40_49,Share of population between 40 and 49,
+AGE_50_59,Share of population between 50 and 59,
+AGE_60_69,Share of population between 60 and 69,
+AGE_70_79,Share of population between 70 and 79,
+AGE_OVR_80,Share of population over 80,
+LEAVE,"Brexit referendum, ""Leave"" share",
+CHILDPOVERTY_2022,2022 child poverty rate,
+STUDENT,Full-time students (share of population over 16),Unavailable outside of England (-1)
+A,"Higher managerial, administrative and professional occupations (share of population over 16)",Unavailable outside of England (-1)
+C3,Intermediate occupations (share of population over 16),Unavailable outside of England (-1)
+B,"Lower managerial, administrative and professional occupations (share of population over 16)",Unavailable outside of England (-1)
+C5,Lower supervisory and technical occupations (share of population over 16),Unavailable outside of England (-1)
+E,Never worked / long-term unemployed (share of population over 16),Unavailable outside of England (-1)
+D7,Routine occupations (share of population over 16),Unavailable outside of England (-1)
+D6,Semi-routine occupations (share of population over 16),Unavailable outside of England (-1)
+C4,Small employers and own account workers (share of population over 16),Unavailable outside of England (-1)
+WHITE,White share (broad ethnic category),Unavailable outside of England and Wales (-1)
+BLACK,Black share (broad ethnic category),Unavailable outside of England and Wales (-1)
+ASIAN,Asian share (broad ethnic category),Unavailable outside of England and Wales (-1)
+OTHR_ETH,Other or Mixed share (broad ethnic category),Unavailable outside of England and Wales (-1)
+BUDDHIST,Percent of population reporting Buddhist religion,Unavailable outside of England and Wales (-1)
+CHRISTIAN,Percent of population reporting Christian religion,Unavailable outside of England and Wales (-1)
+HINDU,Percent of population reporting Hindu religion,Unavailable outside of England and Wales (-1)
+JEWISH,Percent of population reporting Jewish religion,Unavailable outside of England and Wales (-1)
+MUSLIM,Percent of population reporting Muslim religion,Unavailable outside of England and Wales (-1)
+ATHEIST,Percent of population self-responding as atheist,
+NOREPLY,Percent of population who skipped question on religion,
+OTHER_RLG,Percent of population with other religious beliefs,
+SIKH,Percent of population reporting Sikh religion,
+TOT_2010,"Total votes cast, 2010",
+WIN_2010,"Winning party, 2010",
+TURNOUT_2010,"Turnout, 2010",
+CON_2010_PCT,"Conservative share of the vote, 2010",Includes Speaker John Bercow (Buckingham)
+LAB_2010_PCT,"Labour share of the vote, 2010",
+LIB_2010_PCT,"Liberal Democrat share of the vote, 2010",
+GRN_2010_PCT,"Green (England and Wales) share of the vote, 2010",
+UKIP_2010_PCT,"United Kingdom Independence Party share of the vote, 2010",
+OTH_2010_PCT,"Other parties' combined share of the vote, 2010",
+DUP_2010_PCT,"Democratic Unionist Party share of the vote, 2010",
+SF_2010_PCT,"Sinn Fein share of the vote, 2010",
+APNI_2010_PCT,"Alliance Party of Northern Ireland share of the vote, 2010",
+SDLP_2010_PCT,"Social Democratic and Labour Party share of the vote, 2010",
+UUP_2010_PCT,"Ulster Unionist Party share of the vote, 2010",Part of coalition with Conservatives in Northern Ireland
+GRNIR_2010_PCT,"Green (Northern Ireland) share of the vote, 2010",
+SNP_2010_PCT,"Scottish Nationalist Party share of the vote, 2010",
+GRNSC_2010_PCT,"Green (Scotland) share of the vote, 2010",
+PC_2010_PCT,"Plaid Cymru share of the vote, 2010",
+BNP_2010_PCT,"British National Party share of the vote, 2010",
+TOT_2015,"Total votes cast, 2015",
+WIN_2015,"Winning party, 2015",
+TURNOUT_2015,"Turnout, 2015",
+CON_2015_PCT,"Conservative share of the vote, 2015",Includes Speaker John Bercow (Buckingham)
+LAB_2015_PCT,"Labour share of the vote, 2015",
+LIB_2015_PCT,"Liberal Democrat share of the vote, 2015",
+GRN_2015_PCT,"Green (England and Wales) share of the vote, 2015",
+UKIP_2015_PCT,"United Kingdom Independence Party share of the vote, 2015",
+OTH_2015_PCT,"Other parties' combined share of the vote, 2015",
+DUP_2015_PCT,"Democratic Unionist Party share of the vote, 2015",
+SF_2015_PCT,"Sinn Fein share of the vote, 2015",
+APNI_2015_PCT,"Alliance Party of Northern Ireland share of the vote, 2015",
+SDLP_2015_PCT,"Social Democratic and Labour Party share of the vote, 2015",
+UUP_2015_PCT,"Ulster Unionist Party share of the vote, 2015",
+GRNIR_2015_PCT,"Green (Northern Ireland) share of the vote, 2015",
+SNP_2015_PCT,"Scottish Nationalist Party share of the vote, 2015",
+GRNSC_2015_PCT,"Green (Scotland) share of the vote, 2015",
+PC_2015_PCT,"Plaid Cymru share of the vote, 2015",
+TOT_2017,"Total votes cast, 2017",
+WIN_2017,"Winning party, 2017",
+TURNOUT_2017,"Turnout, 2017",
+CON_2017_PCT,"Conservative share of the vote, 2017",Includes Speaker John Bercow (Buckingham)
+LAB_2017_PCT,"Labour share of the vote, 2017",
+LIB_2017_PCT,"Liberal Democrat share of the vote, 2017",
+GRN_2017_PCT,"Green (England and Wales) share of the vote, 2017",
+UKIP_2017_PCT,"United Kingdom Independence Party share of the vote, 2017",
+OTH_2017_PCT,"Other parties' combined share of the vote, 2017",
+DUP_2017_PCT,"Democratic Unionist Party share of the vote, 2017",
+SF_2017_PCT,"Sinn Fein share of the vote, 2017",
+APNI_2017_PCT,"Alliance Party of Northern Ireland share of the vote, 2017",
+SDLP_2017_PCT,"Social Democratic and Labour Party share of the vote, 2017",
+UUP_2017_PCT,"Ulster Unionist Party share of the vote, 2017",
+GRNIR_2017_PCT,"Green (Northern Ireland) share of the vote, 2017",
+SNP_2017_PCT,"Scottish Nationalist Party share of the vote, 2017",
+GRNSC_2017_PCT,"Green (Scotland) share of the vote, 2017",
+PC_2017_PCT,"Plaid Cymru share of the vote, 2017",
+TOT_2019,"Total votes cast, 2019",
+WIN_2019,"Winning party, 2019",
+TURNOUT_2019,"Turnout, 2019",
+CON_2019_PCT,"Conservative share of the vote, 2019",
+LAB_2019_PCT,"Labour share of the vote, 2019",
+LIB_2019_PCT,"Liberal Democrat share of the vote, 2019",
+GRN_2019_PCT,"Green (England and Wales) share of the vote, 2019",
+BRX_2019_PCT,"Brexit Party share of the vote, 2019",
+OTH_2019_PCT,"Other parties' combined share of the vote, 2019",Includes Speaker Lindsay Hoyle (Chorley)
+DUP_2019_PCT,"Democratic Unionist Party share of the vote, 2019",
+SF_2019_PCT,"Sinn Fein share of the vote, 2019",
+APNI_2019_PCT,"Alliance Party of Northern Ireland share of the vote, 2019",
+SDLP_2019_PCT,"Social Democratic and Labour Party share of the vote, 2019",
+UUP_2019_PCT,"Ulster Unionist Party share of the vote, 2019",
+GRNIR_2019_PCT,"Green (Northern Ireland) share of the vote, 2019",
+SNP_2019_PCT,"Scottish Nationalist Party share of the vote, 2019",
+GRNSC_2019_PCT,"Green (Scotland) share of the vote, 2019",
+PC_2019_PCT,"Plaid Cymru share of the vote, 2019",
+MEDWAGE,"Median household wage, 2022",
+UE_MAY_2010,"Unemployment rate, May 1 2010",
+UE_MAY_2015,"Unemployment rate, May 1 2015",
+UE_MAY_2017,"Unemployment rate, May 1 2017",
+UE_NOV_2019,"Unemployment rate, Nov 1 2019",
+UE_AUG_2023,"Unemployment rate, Aug 1 2023",
